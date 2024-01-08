@@ -1,3 +1,3 @@
-## Personal Portfolio ⚡️
+## gitPersonal Portfolio ⚡️
 
 > > A clean, beautiful, responsive portfolio template for Web Developers!
